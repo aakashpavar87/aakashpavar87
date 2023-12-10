@@ -3,8 +3,10 @@ aakashpavar87/aakashpavar87 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 Hello and congratulations on taking the first step into the exciting realm of software development! Whether you're a beginner eager to expand your programming skills or an experienced coder exploring new technologies, you've come to the right place.
+<p align="center">
+![coding](https://github.com/aakashpavar87/aakashpavar87/assets/124806811/3114e284-69d5-4261-94ae-85114e39beba)
+</p>
 
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/QHE5gWI0QjqF2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/batman-arkham-footage-QHE5gWI0QjqF2">via GIPHY</a></p>
 
 - 👋 Hi, I’m @aakashpavar87
 - 👀 I’m interested in new web technologies and dynamic programming
