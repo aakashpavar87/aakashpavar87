@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hello and congratulations on taking the first step into the exciting realm of software development! Whether you're a beginner eager to expand your programming skills or an experienced coder exploring new technologies, you've come to the right place.
 <p align="center">
-![action-packed (1)](https://github.com/aakashpavar87/aakashpavar87/assets/124806811/28dd9f1f-e1c5-4f79-ad9e-484b6e65f764)
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </p>
 
 
