@@ -15,6 +15,12 @@ Hello and congratulations on taking the first step into the exciting realm of so
 - 💞️ I’m looking to collaborate on Animated Web Design
 - 📫 How to reach me Contact To me with email : aakashpavar87@gmail.com
 
+
+
+[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashpavar87)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 # Welcome to the World of Coding!
 
 Hello and congratulations on taking the first step into the exciting realm of software development! Whether you're a beginner eager to expand your programming skills or an experienced coder exploring new technologies, you've come to the right place.
