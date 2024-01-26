@@ -7,18 +7,15 @@ Hello and congratulations on taking the first step into the exciting realm of so
     <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 </p>
 
-
-
-- 👋 Hi, I’m @aakashpavar87
-- 👀 I’m interested in new web technologies and dynamic programming
-- 🌱 I’m currently learning laravel, react - redux - three.js - Advance Python
-- 💞️ I’m looking to collaborate on Animated Web Design
-- 📫 How to reach me Contact To me with email : aakashpavar87@gmail.com
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 👋 &nbsp; Hi, I’m @aakashpavar87
+- 👀 &nbsp; I’m interested in new web technologies and dynamic programming
+- 🌱 &nbsp; I’m currently learning laravel, react - redux - three.js - Advance Python
+- 💞️ &nbsp; I’m looking to collaborate on Animated Web Design
+- 📫 &nbsp; How to reach me Contact To me with email : aakashpavar87@gmail.com
 - 🔭 &nbsp; I’m currently learning Java Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
